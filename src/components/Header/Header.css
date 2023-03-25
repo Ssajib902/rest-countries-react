@@ -1,0 +1,22 @@
+.nav-style{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+
+.nav-style h2 {
+    color:orangered;
+}
+
+.navbar{
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+}
+
+.navbar a {
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+}
